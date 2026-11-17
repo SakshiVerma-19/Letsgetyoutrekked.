@@ -1,4 +1,4 @@
-# TrekVerse — AI-Powered Trek Management Platform
+# Let's get you trekked — AI-Powered Trek Management Platform
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.5-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
